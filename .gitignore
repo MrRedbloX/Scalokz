@@ -1,0 +1,5 @@
+#workers
+/main-workers/*
+/worker1/*
+/worker2/*
+/worker3/*
