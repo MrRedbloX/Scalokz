@@ -4,7 +4,7 @@ Aims to be a fully self-ruling trading algorithm. It uses the scalping strategy 
 ## Third Party
 The trading API used is [Alpaca](https://github.com/alpacahq/alpaca-trade-api-python). The stocks to trade are retrivied from [Wikipedia S&P500](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
 ## Join
-For more information, you can go to the official [website](https://www.scalokz.com)
+For more information, you can go to the official [website](https://www.scalokz.com).
 ## Structure
 The app submodule is just the repository for the website.
 The main-worker submodule will run the core of the algorithm, making decisions and transactions in real time for every client.
